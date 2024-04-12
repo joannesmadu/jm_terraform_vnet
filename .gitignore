@@ -1,0 +1,7 @@
+.DS_Store
+*.tfplan
+terraform.tfstate
+.terraform
+.terraform.tfstate.backup
+.terraform.lock.hcl
+*/snippets.md
